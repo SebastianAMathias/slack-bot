@@ -1,0 +1,24 @@
+{
+    "attachments": [
+        {
+            "fallback": "Required plain-text summary of the attachment.",
+            "color": "#36a64f",
+            "pretext": "Olá, Tani",
+            "author_name": "Richard Kenta",
+            "title_link": "https://api.slack.com/",
+            "text": "Cale a boca vadia puta",
+            "fields": [
+                {
+                    "title": "Priority",
+                    "value": "High",
+                    "short": false
+                }
+            ],
+            "image_url": "http://my-website.com/path/to/image.jpg",
+            "thumb_url": "http://example.com/path/to/thumb.png",
+            "footer": "Slack API",
+            "footer_icon": "https://platform.slack-edge.com/img/default_application_icon.png",
+            "ts": 123456789
+        }
+    ]
+}
